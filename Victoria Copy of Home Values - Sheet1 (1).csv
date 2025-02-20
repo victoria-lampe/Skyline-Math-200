@@ -1,0 +1,12 @@
+YEAR,Start_Year,Home_Value,Source
+2012,0,400000,Vital Signs
+2013,1,475000,Vital Signs
+2014,2,539000,Vital Signs
+2015,3,567000,Vital Signs
+2016,4,520565,Zillow
+2017,5,563718,Zillow
+2018,6,600242,Zillow
+2019,7,591031,Zillow
+2020,8,650000,Redfin
+2021,9,680000,Redfin
+2022,10,7000000,Redfin
